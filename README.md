@@ -1,6 +1,2 @@
-# haiku-generator
-What functionality is working so far?
-
-What problems/bugs are you currently running into (if any)?
-
-Provide a planned schedule for when you aim to complete each remaining aspect of the project.
+Final Project for Data Structures and Algorithms Mills College Fall 2021
+By Mel Lister and Vienna Tran
